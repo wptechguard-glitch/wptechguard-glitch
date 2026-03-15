@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm krishan kumar sharma, i'm currently in my 4th year of b.tech in computer science<br>from jagannath university jaipur<br>I have strong interest in cybersecurity specially in penetration testing, I focused on <br>understanding how vulnerabilites occur in systems and wed application, <br>How they can be exploited & secured.
+I'm krishan sharma, i'm currently in my 4th year of b.tech in computer science<br>from jagannath university jaipur<br>I have strong interest in cybersecurity specially in penetration testing, I focused on <br>understanding how vulnerabilites occur in systems and wed application, <br>How they can be exploited & secured.
 
 
 ## 🌐 Socials:
